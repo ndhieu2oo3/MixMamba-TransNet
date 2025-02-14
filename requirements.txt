@@ -1,0 +1,9 @@
+openmim
+timm
+triton
+causal-conv1d
+mamba-ssm
+dynamic-network-architectures
+fvcore
+pytorch-lightning
+einops
