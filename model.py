@@ -41,7 +41,7 @@ try:
 except:
     pass
 
-PRETRAINED_PATH = "/content/drive/MyDrive/polyp_segment/Weight/pvt_v2_b5.pth"
+
 
 # PVT-v2 backbone
 class Mlp(nn.Module):
