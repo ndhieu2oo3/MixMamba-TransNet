@@ -27,20 +27,13 @@ We evaluate MixMamba-TransNet on widely-used polyp datasets:
 If you find this helpful, please cite it here:
 
 ```bibtex
-@InProceedings{10.1007/978-981-95-1746-6_3,
-author="Nguyen, Dinh-Hieu
-and Hoang, Ngoc-Khai
-and Nguyen, Thanh-Thu
-and Tran, Thi-Thao
-and Pham, Van-Truong",
-editor="Thi Dieu Linh, Nguyen
-and Yu, Shiqi
-and Selamat, Ali
-and Tran, Duc -Tan",
-title="Polyp Segmentation Based on Mamba-MLP Mixer and Transformer",
-booktitle="Proceedings of the Fifth International Conference on Intelligent Systems and Networks",
-year="2026",
-publisher="Springer Nature Singapore",
-address="Singapore",
-pages="19--28",
+@inproceedings{nguyen2025polyp,
+  title={Polyp Segmentation Based on Mamba-MLP Mixer and Transformer},
+  author={Nguyen, Dinh-Hieu and Hoang, Ngoc-Khai and Nguyen, Thanh-Thu and Tran, Thi-Thao and Pham, Van-Truong},
+  booktitle={The International Conference on Intelligent Systems \& Networks},
+  pages={19--28},
+  year={2025},
+  organization={Springer},
+  doi={https://doi.org/10.1007/978-981-95-1746-6_3},
+  url={https://doi.org/10.1007/978-981-95-1746-6_3}
 }
